@@ -10,6 +10,7 @@ The technologies I'm currently interested in:
 <img src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" height="50" width="50" style="display: inline-block">
 </div>
 
+
 I'm very interested in cryptocurrency/blockchain technology so I'm looking forward to learning some languages such as Rust, Solidity, Vyper.
 <!--
 **brandond98/brandond98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
