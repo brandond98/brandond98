@@ -1,6 +1,6 @@
 ### Hey! I'm a software develpper from the UK. Currently working mainly with the Javacript ecosystem & also enjoy using Python.
 
-<p>The technologies I'm currently using:</p>
+<p>My favourite technologies to work with right now:</p>
 
 <p>
 <div style:"display:flex margin-bottom:1rem;">
