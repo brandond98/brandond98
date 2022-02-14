@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! I'm a software develpper from the UK. Currently working with the Javacript ecosystem, also enjoy using Python and eager to learn more languages.
+
+My current favourite technologies are:
+
+<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height="60" width="60" >
 
 <!--
 **brandond98/brandond98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
