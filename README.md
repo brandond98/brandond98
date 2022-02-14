@@ -7,7 +7,7 @@ My current favourite technologies are:
 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="50" width="50" style="display: inline-block">
 <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" height="50" width="50" style="display: inline-block">
 <img src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png" height="50" width="50" style="display: inline-block" >
-<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="50" width="50" style="display: inline-block">
+<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="50" width="50" style="filter: invert(100%);">
 <img src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" height="50" width="50" style="display: inline-block">
 </div>
 <!--
