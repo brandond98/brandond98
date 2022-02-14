@@ -1,6 +1,6 @@
 ### Hey! I'm a software develpper from the UK. Currently working with the Javacript ecosystem, also enjoy using Python and eager to learn more languages.
 
-My current favourite technologies are:
+The technologies I'm currently interested in:
 
 <div style:"display:flex">
 <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height="50" width="50" style="display: inline-block" ></a>
