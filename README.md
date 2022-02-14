@@ -12,7 +12,7 @@
 </div>
 </p>
 
-<p>I'm very interested in cryptocurrency/blockchain technology so I'm looking forward to learning some languages such as Rust, Solidity, Vyper.</p>
+<p>I'm very interested in cryptocurrency/blockchain technology so I'm looking forward to learning languages such as Rust, Solidity & Vyper.</p>
 <!--
 **brandond98/brandond98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
