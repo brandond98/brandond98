@@ -1,4 +1,4 @@
-### Hey! I'm a software develpper from the UK. Currently working mainly with the Javacript ecosystem & also enjoy using Python.
+### Hey! I'm a software developer from the UK. Currently working mainly with the Javacript ecosystem & also enjoy using Python.
 
 <p>My favourite technologies to work with right now:</p>
 
